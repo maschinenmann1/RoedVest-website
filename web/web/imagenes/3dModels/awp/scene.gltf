@@ -1,0 +1,446 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 28391,
+      "max": [
+        1.7108000516891479,
+        12.72920036315918,
+        43.566200256347656
+      ],
+      "min": [
+        -2.8441998958587646,
+        2.6270999908447266,
+        -10.237700462341309
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 340692,
+      "componentType": 5126,
+      "count": 28391,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 28391,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 28391,
+      "max": [
+        1.0010999441146851,
+        1.0005999803543091
+      ],
+      "min": [
+        -0.00079999997979030013,
+        0.00060000002849847078
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 65748,
+      "max": [
+        28390
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 681384,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        1.0000002384185791,
+        11.566478729248047,
+        1
+      ],
+      "min": [
+        -0.99999982118606567,
+        -0.047096490859985352,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 695976,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        0.99043828248977661,
+        1,
+        0.99513983726501465
+      ],
+      "min": [
+        -0.99043828248977661,
+        -1,
+        -0.9951399564743042
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 227128,
+      "componentType": 5126,
+      "count": 1216,
+      "max": [
+        1.0000002384185791,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 262992,
+      "componentType": 5125,
+      "count": 1992,
+      "max": [
+        1215
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "rileys (https://sketchfab.com/rileys)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/csgo-weapon-awp-prince-05ed5b789dc546d8b40dd89a071be927",
+      "title": "CSGO WEAPON: AWP PRINCE"
+    },
+    "generator": "Sketchfab-9.85.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 270960,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 236856,
+      "byteOffset": 270960,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 710568,
+      "byteOffset": 507816,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 454256,
+      "byteOffset": 1218384,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1672640,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Default_OBJ_baseColor.png"
+    },
+    {
+      "uri": "textures/Default_OBJ_normal.png"
+    },
+    {
+      "uri": "textures/Material.004_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Default_OBJ",
+      "normalTexture": {
+        "index": 1,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.5
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material.004",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.82111456180001685
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "awp_Default OBJ_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Sphere_Material.004_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.99996572732925415,
+        -0.0082785384729504585,
+        0,
+        0,
+        0.0082785384729504585,
+        0.99996572732925415,
+        0,
+        0,
+        -6.4134645462036133,
+        -13.769003868103027,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "AWP-PRINCE.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        99.999999999998664,
+        1.6292067073209114e-05,
+        0,
+        0,
+        -1.6292067073209114e-05,
+        99.999999999998664,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "awp"
+    },
+    {
+      "mesh": 0,
+      "name": "awp_Default OBJ_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        114.06143951416016,
+        0,
+        0,
+        0,
+        0,
+        -1.858296721805726e-05,
+        -114.06143951415865,
+        0,
+        0,
+        114.06143951415865,
+        -1.858296721805726e-05,
+        0,
+        0.072108209133148193,
+        1113.159423828125,
+        1525.4815673828125,
+        1
+      ],
+      "name": "Sphere"
+    },
+    {
+      "mesh": 1,
+      "name": "Sphere_Material.004_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+

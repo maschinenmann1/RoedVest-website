@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old wooden house in small village
+* source:	https://sketchfab.com/3d-models/old-wooden-house-in-small-village-a556a7c27fa7458590df1d926cb1be0e
+* author:	Viesturs Dille (https://sketchfab.com/vdille)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old wooden house in small village" (https://sketchfab.com/3d-models/old-wooden-house-in-small-village-a556a7c27fa7458590df1d926cb1be0e) by Viesturs Dille (https://sketchfab.com/vdille) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

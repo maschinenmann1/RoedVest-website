@@ -1,0 +1,11 @@
+Model Information:
+* title:	CSGO WEAPON: AWP PRINCE
+* source:	https://sketchfab.com/3d-models/csgo-weapon-awp-prince-05ed5b789dc546d8b40dd89a071be927
+* author:	rileys (https://sketchfab.com/rileys)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CSGO WEAPON: AWP PRINCE" (https://sketchfab.com/3d-models/csgo-weapon-awp-prince-05ed5b789dc546d8b40dd89a071be927) by rileys (https://sketchfab.com/rileys) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

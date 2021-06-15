@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glock 17 Gen4
+* source:	https://sketchfab.com/3d-models/glock-17-gen4-135e957272f54e5a94de26fa3e13160a
+* author:	Ziperi Studio (https://sketchfab.com/ziperistudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glock 17 Gen4" (https://sketchfab.com/3d-models/glock-17-gen4-135e957272f54e5a94de26fa3e13160a) by Ziperi Studio (https://sketchfab.com/ziperistudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

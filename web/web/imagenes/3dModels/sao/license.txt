@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sword Art Online: Asuna
+* source:	https://sketchfab.com/3d-models/sword-art-online-asuna-e864eede773544ddb63cfe7b3d95d8f2
+* author:	echotango-san (https://sketchfab.com/echotango-san)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sword Art Online: Asuna" (https://sketchfab.com/3d-models/sword-art-online-asuna-e864eede773544ddb63cfe7b3d95d8f2) by echotango-san (https://sketchfab.com/echotango-san) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

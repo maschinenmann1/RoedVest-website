@@ -1,0 +1,99 @@
+@font-face {
+    font-family: sanFranciscoRegular;
+    src: url(../fuentes/YosemiteSanFranciscoFont-master/System_San_Francisco_Display_Regular.ttf);
+}
+
+@font-face {
+    font-family: sanFranciscoBold;
+    src: url(../fuentes/YosemiteSanFranciscoFont-master/System_San_Francisco_Display_Bold.ttf);
+}
+
+
+.border-box{box-sizing:border-box;}
+model-viewer{height: 350px; width: 100%;}
+body{font-family: sanFranciscoRegular;background: linear-gradient(white, rgba(0, 0, 0, 0.2));}
+.py-10{padding-top: 100px;padding-bottom: 50px;}
+.grow { transition: all .2s ease-in-out;}
+.border-good{border:1px solid black;}
+.grow:hover { transform: scale(1.1); }
+html,body{overflow-x: hidden;}
+.contenedor{padding-left:50px;padding-right:50px;}
+.copyright{background:black;}
+.input-custom{border:none; color:white;box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;}
+.input-custom:focus{color:white !important; box-shadow:none;}
+::-webkit-input-placeholder {color: #E0E0DE !important;}
+::placeholder {color: #E0E0DE !important;}
+
+.barra-menu{
+    background-color:rgba(18, 26, 35,.9)!important;
+}
+
+.parallax {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imagenes/fondo.jpg);
+  min-height: 670px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  filter: grayscale(50%);
+}
+
+
+#cuerpo{display:flex; flex-direction:column; min-height:100vh;}
+
+.parallax h1{
+    font-family:sanFranciscoBold;
+    letter-spacing:1px;
+    font-size:6rem;
+    color:white;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: linear-gradient(white, rgba(0, 0, 0, 0.2));
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: #AFAFAF; 
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #838383; 
+}
+
+@media only screen and (max-width: 450px) {
+    .parallax h1{
+        font-family:sanFranciscoBold;
+        letter-spacing:1px;
+        font-size:4rem;
+        color:white;
+    }
+    
+    .parallax {
+      background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imagenes/fondo2.jpg);
+      min-height: 670px; 
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      filter: grayscale(50%);
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+    .contenedor{
+        padding-left:9px;
+        padding-right:9px;
+    }
+}
